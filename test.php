@@ -4,5 +4,6 @@ echo "Testing the same with cmd";
 echo "One more commit";
 echo "One more commit";
 echo "One more commit";
+echo "One more commit-merge";
 
 ?>
